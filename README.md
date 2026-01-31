@@ -6,6 +6,7 @@ A collection of LeetCode questions uploaded using LeetHub
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/CSheppardCodes/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/CSheppardCodes/Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/CSheppardCodes/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/CSheppardCodes/Leetcode/tree/master/1683-invalid-tweets) |
