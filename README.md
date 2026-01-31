@@ -1,5 +1,5 @@
 # Leetcode
-A collection of LeetCode questions
+A collection of LeetCode questions uploaded using LeetHub
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
